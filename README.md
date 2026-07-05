@@ -113,16 +113,18 @@ SHAP values were used to explain individual model predictions, improving model t
 ## Model Performance
 
 |----------|---------|
-| Metric   | Score   |
+| Metric | Score |
 |----------|---------|
 | Accuracy | **83%** |
 | Precision| **47%** |
-| Recall   | **55%** |
+| Recall | **55%** |
 | F1-Score | **0.51**|
 |----------|---------|
+
 ---
 
 ## Installation
 
 Clone the repository
 
+git clone https://github.com/PixelPawar/Employee-Attrition-Prediction.git
